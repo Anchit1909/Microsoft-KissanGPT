@@ -1,7 +1,10 @@
 # FarmBot - A Chatbot Model for Indian Farmers👨‍🌾
 FarmBot is a chatbot model designed to assist farmers with their day-to-day farming activities. The chatbot is programmed to answer common questions related to farming, such as weather information, crop advice, pest control, and market prices. FarmBot is available in multiple regional Indian languages to cater to farmers from different regions.
 
-# Features -
+## High Level Archirecture for the project idea
+<img alt="FarmBot - High level Architecture" src="/Architecture.png">
+
+## Features
 
 ## Available in multiple regional Indian languages
 FarmBot is available in multiple regional Indian languages, including Hindi, Tamil, Telugu, Kannada, Malayalam, Bengali, and Punjabi. This ensures that farmers from different regions can access the chatbot in their native language, making it easier for them to understand and use.
