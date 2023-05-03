@@ -20,3 +20,6 @@ FarmBot provides farmers with pest control information for common pests in their
 
 ## Provides market prices information for the user's local market
 FarmBot provides farmers with market prices information for their local market. This feature helps farmers make informed decisions regarding the sale of their produce and avoid potential losses due to market fluctuations.
+
+### Find more details in the attached PPT
+[PPT](/PLEDGE_TO_PROGRES_Microsoft_Sustainability.pptx)
